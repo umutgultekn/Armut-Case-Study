@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Case Study</string>
+    <string name="tab_text_search">Search</string>
+    <string name="tab_text_filter">Filter</string>
+
+
+<!--    <string name="card_title">Kullanıcı Adı: </string>-->
+<!--    <string name="card_text">E-posta: </string>-->
+<!--    <string name="user_city">Şehir: </string>-->
+<!--    <string name="user_web_page">Web: </string>-->
+
+    <string name="search">Search</string>
+
+    <string name="player_class">Player Class</string>
+    <string name="rarity">Rarity</string>
+    <string name="type">Type</string>
+    <string name="cost">Cost</string>
+    <string name="attack">\u0020\u0020Attack</string>
+    <string name="health">\u0020\u0020Health</string>
+    <string name="description">Description</string>
+    <string name="flavor">Flavor</string>
+
+
+    <string-array name="spinner_classs">
+        <item>Druid</item>
+        <item>Hunter</item>
+        <item>Mage</item>
+        <item>Paladin</item>
+        <item>Priest</item>
+        <item>Rogue</item>
+        <item>Shaman</item>
+        <item>Warlock</item>
+        <item>Warrior</item>
+    </string-array>
+
+</resources>
